@@ -1,4 +1,4 @@
-# home-network-scanning-device-mapping
+# Scanning-Device-Mapping
 This project is part of KaredokNet, an independent initiative focused on practical WiFi and home network security.  
 # Home Network Scanning & Device Mapping (Beginner-Friendly)
 
